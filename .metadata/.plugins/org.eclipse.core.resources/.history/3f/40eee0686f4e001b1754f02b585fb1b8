@@ -1,0 +1,5 @@
+package com.dtan.projectmanagementtool.repositories;
+
+public interface ProjectRepository {
+
+}

@@ -1,0 +1,9 @@
+package com.dtan.projectmanagementtool.web;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class ProjectController {
+
+	
+}

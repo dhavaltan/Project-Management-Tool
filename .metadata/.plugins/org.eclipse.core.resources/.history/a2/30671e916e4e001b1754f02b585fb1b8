@@ -1,0 +1,5 @@
+package com.dtan.projectmanagementtool.model;
+
+public class Project {
+
+}
